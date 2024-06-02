@@ -1,0 +1,6 @@
+SauceDemoTask: I designed the framework to fulfill the task requirements efficiently.
+Initially, I crafted scenario and corresponding step definitions, ensuring alignment with the specified test cases.
+To enhance maintainability and reusability, I implemented the Singleton Pattern, creating LoginPage, ProductPage, CartPage, and CheckoutPage.
+These pages dynamically locate relevant elements and offer dynamic methods for seamless integration into various test cases.
+This approach simplifies test development
+and promotes code efficiency.
