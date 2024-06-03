@@ -9,7 +9,7 @@ public class ConfigurationReader {
     static {
 
         try {
-            // which file to read-copy the part of the properties
+            // which file to read-copy the part of  .properties file
             String path = "configuration.properties";
             // read the file into java, finds the file using the string path
             FileInputStream input = new FileInputStream(path);

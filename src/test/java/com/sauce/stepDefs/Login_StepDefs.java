@@ -4,9 +4,8 @@ import com.sauce.pages.CartPage;
 import com.sauce.pages.CheckoutPage;
 import com.sauce.pages.LoginPage;
 import com.sauce.pages.ProductsPage;
-import org.checkerframework.checker.units.qual.C;
 
-public class Login_StepDefsTask {
+public class Login_StepDefs {
     LoginPage loginPage=new LoginPage();
     ProductsPage productsPage=new ProductsPage();
     CartPage cartPage=new CartPage();
