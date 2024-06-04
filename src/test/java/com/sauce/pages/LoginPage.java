@@ -12,8 +12,8 @@ public class LoginPage extends BasePage{
     public WebElement loginBtn;
 
 
-    @FindBy(tagName = "h3")
-    public WebElement errorMsg;
+   // @FindBy(tagName = "h3")
+    //public WebElement errorMsg;
 
     public void login(String username, String password){
         inputUsername.sendKeys(username);
